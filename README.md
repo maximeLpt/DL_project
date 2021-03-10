@@ -4,9 +4,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/maximeLpt/DL_project">
-    <img src=logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="300" height="130">
   </a>
-
   <h3 align="center">Tag & Graph Project : towards tomorrow's file explorer</h3>
 </p>
 
